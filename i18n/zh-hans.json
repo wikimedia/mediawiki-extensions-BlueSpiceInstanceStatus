@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hehua",
 			"Kishinsagi"
 		]
 	},
+	"bs-instancestatus-instance-status-bs-version-label": "BlueSpice版本",
+	"bs-instancestatus-instance-status-user-quota-label": "用户配额",
+	"bs-instancestatus-instance-status-last-update-label": "最后更新于",
 	"bs-instancestatus-instance-status-no-info": "不可用"
 }
