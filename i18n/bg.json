@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kasey"
+			"Kasey",
+			"StanProg"
 		]
 	},
 	"bs-instancestatus-desc": "Добавя преглед на състоянието на примера на wiki",
 	"instancestatus": "Състояние на примера",
-	"bs-instancestatus-instance-status-bs-version-label": "BlueSpice версия",
+	"bs-instancestatus-instance-status-bs-version-label": "Версия на BlueSpice",
 	"bs-instancestatus-instance-status-user-quota-label": "Потребителска квота",
-	"bs-instancestatus-instance-status-last-update-label": "Последна актуализация на",
+	"bs-instancestatus-instance-status-last-update-label": "Последно обновяване",
 	"bs-instancestatus-instance-status-created-label": "Примерът е създаден на",
 	"bs-instancestatus-instance-status-no-info": "Не е наличен",
-	"bs-instancestatus-overview-loader": "Събиране на wiki информация"
+	"bs-instancestatus-overview-loader": "Събиране на wiki информация..."
 }
