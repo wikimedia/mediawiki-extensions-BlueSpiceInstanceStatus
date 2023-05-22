@@ -34,6 +34,7 @@ class AddGlobalAction implements MWStakeCommonUIRegisterSkinSlotComponents {
 							'href' => $special->getPageTitle()->getLocalURL(),
 							'text' => new RawMessage( $special->getDescription() ),
 							'title' => new RawMessage( $special->getDescription() ),
+							'aria-label' => new RawMessage( $special->getDescription() ),
 							'permissions' => [ 'wikiadmin' ]
 						] );
 					}
