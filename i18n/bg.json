@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kasey",
-			"StanProg"
+			"StanProg",
+			"Ted Masters"
 		]
 	},
 	"bs-instancestatus-desc": "Добавя преглед на състоянието на примера на wiki",
@@ -12,5 +13,5 @@
 	"bs-instancestatus-instance-status-last-update-label": "Последно обновяване",
 	"bs-instancestatus-instance-status-created-label": "Примерът е създаден на",
 	"bs-instancestatus-instance-status-no-info": "Не е наличен",
-	"bs-instancestatus-overview-loader": "Събиране на wiki информация..."
+	"bs-instancestatus-overview-loader": "Събиране на уики информация..."
 }
