@@ -14,5 +14,6 @@
 	"bs-instancestatus-instance-status-no-info": "Value for instance status field when no value is available",
 	"bs-instancestatus-instance-status-sales-contact-label": "Label for the instance status field",
 	"bs-instancestatus-instance-status-sales-contact": "Value for the instance status field. $1 - BlueSpice contact URL",
-	"bs-instancestatus-overview-loader": "Message displayed while loading instance status page"
+	"bs-instancestatus-overview-loader": "Message displayed while loading instance status page",
+	"bs-instancestatus-instance-status-main-label": "Booklet page label"
 }
