@@ -17,14 +17,12 @@ class LastUpdate extends Created {
 	 * @return mixed|string
 	 */
 	protected function getConfigVar() {
-		$buildInfoFilePath = $GLOBALS['IP'] . '/BUILDINFO';
-		if ( !file_exists( $buildInfoFilePath ) ) {
+		$filepath = $GLOBALS['IP'] . "/composer.lock";
+		if ( !file_exists( $filepath ) ) {
 			return '';
 		}
-		$buildFile = fopen( $buildInfoFilePath, "r" );
-		$lastUpdate = fread( $buildFile, filesize( $GLOBALS['IP'] . "/BUILDINFO" ) );
-		fclose( $buildFile );
-		return ( !$lastUpdate ) ? '' : $lastUpdate;
+		$ts = date( "YmdHis", filemtime( $filepath ) );
+		return is_string( $ts ) ? $ts : '';
 	}
 
 	/**
