@@ -24,6 +24,11 @@ $( function() {
 			}
 		}
 		booklet.addPages( pages );
+		if ( pages.length === 1 ) {
+			booklet.toggleMenu( false );
+		} else {
+			booklet.selectFirstSelectablePage();
+		}
 
 		$( '#bs-instance-status-overview' ).html( booklet.$element );
 	} ).fail( function () {
