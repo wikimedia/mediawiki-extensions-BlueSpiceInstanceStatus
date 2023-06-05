@@ -13,5 +13,6 @@
 	"bs-instancestatus-instance-status-no-info": "Inte tillgänglig",
 	"bs-instancestatus-instance-status-sales-contact-label": "BluSpice-kontakt",
 	"bs-instancestatus-instance-status-sales-contact": "Hör av dig här: [$1 BlueSpice-kontakt]",
-	"bs-instancestatus-overview-loader": "Samlar in information om wikin..."
+	"bs-instancestatus-overview-loader": "Samlar in information om wikin...",
+	"bs-instancestatus-instance-status-main-label": "Allmänt"
 }
