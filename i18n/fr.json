@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Verdy p",
-			"Wladek92"
+			"Wladek92",
+			"Gomoko"
 		]
 	},
 	"bs-instancestatus-desc": "Ajoute un aperçu de l’état de l’instance du wiki",
@@ -14,5 +15,6 @@
 	"bs-instancestatus-instance-status-no-info": "Non disponible",
 	"bs-instancestatus-instance-status-sales-contact-label": "Contact BlueSpice",
 	"bs-instancestatus-instance-status-sales-contact": "Contactez-nous ici : [$1 contact BlueSpice]",
-	"bs-instancestatus-overview-loader": "Collecte d’informations du wiki..."
+	"bs-instancestatus-overview-loader": "Collecte d’informations du wiki...",
+	"bs-instancestatus-instance-status-main-label": "Général"
 }

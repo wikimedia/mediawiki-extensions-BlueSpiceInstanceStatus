@@ -4,5 +4,6 @@
 			"Milicevic01"
 		]
 	},
-	"bs-instancestatus-instance-status-no-info": "Није доступно"
+	"bs-instancestatus-instance-status-no-info": "Није доступно",
+	"bs-instancestatus-instance-status-main-label": "Опште"
 }

@@ -11,5 +11,6 @@
 	"bs-instancestatus-instance-status-created-label": "Istanza creata il",
 	"bs-instancestatus-instance-status-no-info": "Non disponibile",
 	"bs-instancestatus-instance-status-sales-contact-label": "Contatto BlueSpice",
-	"bs-instancestatus-instance-status-sales-contact": "Mettiti in contatto qui: [$1 contatto BlueSpice]"
+	"bs-instancestatus-instance-status-sales-contact": "Mettiti in contatto qui: [$1 contatto BlueSpice]",
+	"bs-instancestatus-instance-status-main-label": "Generale"
 }
