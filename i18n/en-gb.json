@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kasey"
+			"Kasey",
+			"Mako001"
 		]
 	},
-	"bs-instancestatus-instance-status-created-label": "Пример създаден на"
+	"bs-instancestatus-instance-status-created-label": "Instance created on"
 }

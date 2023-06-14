@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alshamiri1"
+			"Alshamiri1",
+			"Asma"
 		]
 	},
 	"bs-instancestatus-desc": "يضيف نظرة عامة على حالة مثيل wiki",
@@ -13,5 +14,6 @@
 	"bs-instancestatus-instance-status-no-info": "غير متوفر",
 	"bs-instancestatus-instance-status-sales-contact-label": "اتصال BlueSpice",
 	"bs-instancestatus-instance-status-sales-contact": "تواصل معنا هنا: [ $1 BlueSpice contact]",
-	"bs-instancestatus-overview-loader": "جاري تجميع معلومات wiki ..."
+	"bs-instancestatus-overview-loader": "جاري تجميع معلومات wiki ...",
+	"bs-instancestatus-instance-status-main-label": "عام"
 }
