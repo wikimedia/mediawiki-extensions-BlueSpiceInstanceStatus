@@ -6,12 +6,12 @@
 			"Ted Masters"
 		]
 	},
-	"bs-instancestatus-desc": "Добавя преглед на състоянието на примера на wiki",
-	"instancestatus": "Състояние на примера",
+	"bs-instancestatus-desc": "Добавя преглед на състоянието на инстанция на уики",
+	"instancestatus": "Състояние на инстанцията",
 	"bs-instancestatus-instance-status-bs-version-label": "Версия на BlueSpice",
 	"bs-instancestatus-instance-status-user-quota-label": "Потребителска квота",
 	"bs-instancestatus-instance-status-last-update-label": "Последно обновяване",
-	"bs-instancestatus-instance-status-created-label": "Примерът е създаден на",
-	"bs-instancestatus-instance-status-no-info": "Не е наличен",
+	"bs-instancestatus-instance-status-created-label": "Инстанцията е създадена на",
+	"bs-instancestatus-instance-status-no-info": "Няма данни",
 	"bs-instancestatus-overview-loader": "Събиране на уики информация..."
 }
