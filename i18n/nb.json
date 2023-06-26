@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"EdoAug"
+		]
+	},
+	"bs-instancestatus-instance-status-sales-contact-label": "BlueSpice-kontakt",
+	"bs-instancestatus-instance-status-sales-contact": "Ta kontakt her: [$1 BlueSpice-kontakt]",
+	"bs-instancestatus-overview-loader": "Samler wiki-informasjon ..."
+}
