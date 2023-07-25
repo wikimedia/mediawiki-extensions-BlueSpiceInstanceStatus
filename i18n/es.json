@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"AnupamM"
 		]
 	},
-	"bs-instancestatus-overview-loader": "Recopilando información sobre el wiki…"
+	"bs-instancestatus-instance-status-last-update-label": "Última actualización",
+	"bs-instancestatus-instance-status-no-info": "No disponible",
+	"bs-instancestatus-overview-loader": "Recopilando información sobre el wiki…",
+	"bs-instancestatus-instance-status-main-label": "General"
 }
