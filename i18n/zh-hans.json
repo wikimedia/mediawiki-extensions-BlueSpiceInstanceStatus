@@ -2,11 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Hehua",
-			"Kishinsagi"
+			"Kishinsagi",
+			"CrownedWharf566"
 		]
 	},
+	"instancestatus": "实例状态",
 	"bs-instancestatus-instance-status-bs-version-label": "BlueSpice版本",
 	"bs-instancestatus-instance-status-user-quota-label": "用户配额",
 	"bs-instancestatus-instance-status-last-update-label": "最后更新于",
-	"bs-instancestatus-instance-status-no-info": "不可用"
+	"bs-instancestatus-instance-status-created-label": "实例创建于",
+	"bs-instancestatus-instance-status-no-info": "不可用",
+	"bs-instancestatus-instance-status-sales-contact-label": "BlueSpice联系方式",
+	"bs-instancestatus-overview-loader": "正在收集维基信息...",
+	"bs-instancestatus-instance-status-main-label": "概要"
 }
