@@ -25,7 +25,7 @@ class AddGlobalAction implements MWStakeCommonUIRegisterSkinSlotComponents {
 	public function onMWStakeCommonUIRegisterSkinSlotComponents( $registry ): void {
 		$special = $this->specialPageFactory->getPage( 'InstanceStatus' );
 		$registry->register(
-			'GlobalActionsTools',
+			'GlobalActionsAdministration',
 			[
 				'bs-instance-status' => [
 					'factory' => static function () use ( $special ) {
