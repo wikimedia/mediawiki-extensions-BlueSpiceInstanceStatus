@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01"
+			"Milicevic01",
+			"Kizule"
 		]
 	},
+	"bs-instancestatus-instance-status-bs-version-label": "Верзија BlueSpice-а",
+	"bs-instancestatus-instance-status-last-update-label": "Последњи пут ажурирано на",
 	"bs-instancestatus-instance-status-no-info": "Није доступно",
 	"bs-instancestatus-instance-status-main-label": "Опште"
 }
