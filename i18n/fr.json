@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Gomoko",
 			"Verdy p",
-			"Wladek92",
-			"Gomoko"
+			"Wladek92"
 		]
 	},
 	"bs-instancestatus-desc": "Ajoute un aperçu de l’état de l’instance du wiki",

@@ -6,5 +6,6 @@
 		]
 	},
 	"instancestatus": "インスタンスのステータス",
-	"bs-instancestatus-instance-status-no-info": "利用できません"
+	"bs-instancestatus-instance-status-no-info": "利用できません",
+	"bs-instancestatus-instance-status-main-label": "全般"
 }
