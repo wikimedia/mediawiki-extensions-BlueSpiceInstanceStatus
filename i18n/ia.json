@@ -13,5 +13,6 @@
 	"bs-instancestatus-instance-status-no-info": "Non disponibile",
 	"bs-instancestatus-instance-status-sales-contact-label": "Contacto BlueSpice",
 	"bs-instancestatus-instance-status-sales-contact": "Contacta nos hic: [$1 Contacto BlueSpice]",
-	"bs-instancestatus-overview-loader": "Collige information wiki…"
+	"bs-instancestatus-overview-loader": "Collige information wiki…",
+	"bs-instancestatus-instance-status-main-label": "General"
 }
