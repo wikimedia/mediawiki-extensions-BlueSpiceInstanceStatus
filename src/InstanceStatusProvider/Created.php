@@ -47,7 +47,7 @@ class Created implements IStatusProvider {
 	 * @return mixed|string
 	 */
 	protected function getConfigVar() {
-		$dbr = $this->lb->getConnectionRef( DB_REPLICA );
+		$dbr = $this->lb->getConnection( DB_REPLICA );
 		$res = $dbr->newSelectQueryBuilder()
 			->select( [ 'min(rev_timestamp)' ] )
 			->from( 'revision' )
