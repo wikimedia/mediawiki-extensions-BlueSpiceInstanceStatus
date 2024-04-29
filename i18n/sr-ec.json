@@ -5,8 +5,8 @@
 			"Milicevic01"
 		]
 	},
-	"bs-instancestatus-instance-status-no-info": "Није доступно",
-	"bs-instancestatus-instance-status-main-label": "Опште",
-	"bs-instancestatus-instance-status-bs-version-label": "Верзија BlueSpice-а",
-	"bs-instancestatus-instance-status-last-update-label": "Последње ажурирање:"
+	"bs-instancestatus-instance-status-no-info": "\u041d\u0438\u0458\u0435 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e",
+	"bs-instancestatus-instance-status-main-label": "\u041e\u043f\u0448\u0442\u0435",
+	"bs-instancestatus-instance-status-bs-version-label": "\u0412\u0435\u0440\u0437\u0438\u0458\u0430 BlueSpice-\u0430",
+	"bs-instancestatus-instance-status-last-update-label": "\u041f\u043e\u0441\u043b\u0435\u0434\u045a\u0435 \u0430\u0436\u0443\u0440\u0438\u0440\u0430\u045a\u0435:"
 }
