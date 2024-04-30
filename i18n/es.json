@@ -6,10 +6,10 @@
 			"Jmabel"
 		]
 	},
-	"bs-instancestatus-instance-status-last-update-label": "\u00daltima actualizaci\u00f3n",
+	"bs-instancestatus-instance-status-last-update-label": "Última actualización",
 	"bs-instancestatus-instance-status-no-info": "No disponible",
-	"bs-instancestatus-overview-loader": "Recopilando informaci\u00f3n sobre el wiki\u2026",
+	"bs-instancestatus-overview-loader": "Recopilando información sobre el wiki…",
 	"bs-instancestatus-instance-status-main-label": "General",
-	"bs-instancestatus-instance-status-bs-version-label": "Versi\u00f3n de BlueSpice",
+	"bs-instancestatus-instance-status-bs-version-label": "Versión de BlueSpice",
 	"bs-instancestatus-instance-status-user-quota-label": "Cuota de usario"
 }

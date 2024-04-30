@@ -5,15 +5,15 @@
 			"Winston Sung"
 		]
 	},
-	"instancestatus": "\u5be6\u4f8b\u72c0\u614b",
-	"bs-instancestatus-instance-status-bs-version-label": "BlueSpice\u7248\u672c",
-	"bs-instancestatus-instance-status-user-quota-label": "\u4f7f\u7528\u8005\u914d\u984d",
-	"bs-instancestatus-instance-status-created-label": "\u5be6\u4f8b\u5efa\u7acb\u65bc",
-	"bs-instancestatus-instance-status-no-info": "\u7121\u6cd5\u4f7f\u7528",
-	"bs-instancestatus-instance-status-sales-contact-label": "BlueSpice\u806f\u7d61\u4eba",
-	"bs-instancestatus-overview-loader": "\u6b63\u5728\u6536\u96c6wiki\u8cc7\u8a0a\u2026",
-	"bs-instancestatus-instance-status-main-label": "\u7d9c\u5408",
-	"bs-instancestatus-desc": "\u65b0\u589e wiki \u5be6\u4f8b\u72c0\u614b\u7684\u6982\u8ff0",
-	"bs-instancestatus-instance-status-last-update-label": "\u6700\u5f8c\u66f4\u65b0\u65bc",
-	"bs-instancestatus-instance-status-sales-contact": "\u8acb\u5728\u6b64\u8655\u806f\u7d61\uff1a[ BlueSpice \u806f\u7d61\u4eba$1 ]"
+	"instancestatus": "實例狀態",
+	"bs-instancestatus-instance-status-bs-version-label": "BlueSpice版本",
+	"bs-instancestatus-instance-status-user-quota-label": "使用者配額",
+	"bs-instancestatus-instance-status-created-label": "實例建立於",
+	"bs-instancestatus-instance-status-no-info": "無法使用",
+	"bs-instancestatus-instance-status-sales-contact-label": "BlueSpice聯絡人",
+	"bs-instancestatus-overview-loader": "正在收集wiki資訊…",
+	"bs-instancestatus-instance-status-main-label": "綜合",
+	"bs-instancestatus-desc": "新增 wiki 實例狀態的概述",
+	"bs-instancestatus-instance-status-last-update-label": "最後更新於",
+	"bs-instancestatus-instance-status-sales-contact": "請在此處聯絡：[ BlueSpice 聯絡人$1 ]"
 }
