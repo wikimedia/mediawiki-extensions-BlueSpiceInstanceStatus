@@ -3,6 +3,7 @@
 		"authors": [
 			"CrownedWharf566",
 			"Hehua",
+			"Huajing",
 			"Kishinsagi"
 		]
 	},
@@ -14,5 +15,7 @@
 	"bs-instancestatus-instance-status-no-info": "不可用",
 	"bs-instancestatus-instance-status-sales-contact-label": "BlueSpice联系方式",
 	"bs-instancestatus-overview-loader": "正在收集维基信息...",
-	"bs-instancestatus-instance-status-main-label": "概要"
+	"bs-instancestatus-instance-status-main-label": "概要",
+	"bs-instancestatus-desc": "添加 wiki 实例状态的概述",
+	"bs-instancestatus-instance-status-sales-contact": "联系我们：[ $1 BlueSpice 联系方式]"
 }
