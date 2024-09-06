@@ -35,9 +35,9 @@ class AddGlobalAction implements MWStakeCommonUIRegisterSkinSlotComponents {
 						return new RestrictedTextLink( [
 							'id' => 'ga-bs-instance-status',
 							'href' => $special->getPageTitle()->getLocalURL(),
-							'text' => new RawMessage( $special->getDescription() ),
-							'title' => new RawMessage( $special->getDescription() ),
-							'aria-label' => new RawMessage( $special->getDescription() ),
+							'text' => $special->getDescription(),
+							'title' => $special->getDescription(),
+							'aria-label' => $special->getDescription(),
 							'permissions' => [ 'wikiadmin' ]
 						] );
 					}
