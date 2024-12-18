@@ -25,8 +25,7 @@
 			"PluginModules": [ "ext.bs.instancestatus.overview" ],
 			"InstanceStatusProvider": {
 				"bluespiceversion": {
-					"class": "BlueSpice\\InstanceStatus\\InstanceStatusProvider\\BlueSpiceVersion",
-					"services": [ "ConfigFactory" ]
+					"class": "BlueSpice\\InstanceStatus\\InstanceStatusProvider\\BlueSpiceVersion"
 				},
 				"created": {
 					"class": "BlueSpice\\InstanceStatus\\InstanceStatusProvider\\Created",
