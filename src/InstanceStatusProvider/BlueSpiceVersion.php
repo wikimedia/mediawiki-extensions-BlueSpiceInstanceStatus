@@ -3,20 +3,10 @@
 namespace BlueSpice\InstanceStatus\InstanceStatusProvider;
 
 use BlueSpice\InstanceStatus\IStatusProvider;
-use Config;
-use ConfigFactory;
+use MediaWiki\Parser\Sanitizer;
 use Message;
 
 class BlueSpiceVersion implements IStatusProvider {
-	/** @var Config */
-	private $config;
-
-	/**
-	 * @param ConfigFactory $configFactory
-	 */
-	public function __construct( ConfigFactory $configFactory ) {
-		$this->config = $configFactory->makeConfig( 'bsg' );
-	}
 
 	/**
 	 * @return string
@@ -29,8 +19,13 @@ class BlueSpiceVersion implements IStatusProvider {
 	 * @return string
 	 */
 	public function getValue(): string {
-		$info = $this->config->get( 'BlueSpiceExtInfo' );
-		return $info['name'] . ' ' . $info['version'];
+		$version = '';
+		$versionFile = $GLOBALS['IP'] . '/BLUESPICE-VERSION';
+		if ( file_exists( $versionFile ) ) {
+			$versionFileContent = file_get_contents( $versionFile );
+			$version = Sanitizer::stripAllTags( $versionFileContent );
+		}
+		return $version;
 	}
 
 	/**
