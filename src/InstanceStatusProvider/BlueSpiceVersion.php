@@ -3,8 +3,8 @@
 namespace BlueSpice\InstanceStatus\InstanceStatusProvider;
 
 use BlueSpice\InstanceStatus\IStatusProvider;
+use MediaWiki\Message\Message;
 use MediaWiki\Parser\Sanitizer;
-use Message;
 
 class BlueSpiceVersion implements IStatusProvider {
 
