@@ -5,7 +5,7 @@ namespace BlueSpice\InstanceStatus\InstanceStatusProvider;
 use BlueSpice\InstanceStatus\IStatusProvider;
 use Language;
 use MediaWiki\Context\RequestContext;
-use Message;
+use MediaWiki\Message\Message;
 use Wikimedia\Rdbms\ILoadBalancer;
 
 class Created implements IStatusProvider {

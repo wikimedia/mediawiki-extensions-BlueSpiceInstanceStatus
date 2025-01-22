@@ -6,7 +6,7 @@ use BlueSpice\InstanceStatus\IStatusProvider;
 use ExtensionRegistry;
 use Html;
 use MediaWiki\Logger\LoggerFactory;
-use Message;
+use MediaWiki\Message\Message;
 use MWException;
 use SpecialPage;
 use Wikimedia\ObjectFactory\ObjectFactory;

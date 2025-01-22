@@ -5,7 +5,7 @@ namespace BlueSpice\InstanceStatus\InstanceStatusProvider;
 use BlueSpice\InstanceStatus\IStatusProvider;
 use Config;
 use ConfigFactory;
-use Message;
+use MediaWiki\Message\Message;
 
 class SalesContact implements IStatusProvider {
 	/** @var Config */
