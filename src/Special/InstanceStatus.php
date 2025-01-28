@@ -7,8 +7,8 @@ use ExtensionRegistry;
 use Html;
 use MediaWiki\Logger\LoggerFactory;
 use MediaWiki\Message\Message;
+use MediaWiki\SpecialPage\SpecialPage;
 use MWException;
-use SpecialPage;
 use Wikimedia\ObjectFactory\ObjectFactory;
 
 class InstanceStatus extends SpecialPage {
