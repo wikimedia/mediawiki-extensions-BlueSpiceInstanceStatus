@@ -5,7 +5,6 @@ namespace BlueSpice\InstanceStatus\Hook;
 use MediaWiki\SpecialPage\SpecialPageFactory;
 use MWStake\MediaWiki\Component\CommonUserInterface\Component\RestrictedTextLink;
 use MWStake\MediaWiki\Component\CommonUserInterface\Hook\MWStakeCommonUIRegisterSkinSlotComponents;
-use RawMessage;
 
 class AddGlobalAction implements MWStakeCommonUIRegisterSkinSlotComponents {
 
