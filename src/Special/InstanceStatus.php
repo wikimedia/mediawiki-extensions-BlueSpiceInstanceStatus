@@ -3,10 +3,10 @@
 namespace BlueSpice\InstanceStatus\Special;
 
 use BlueSpice\InstanceStatus\IStatusProvider;
-use ExtensionRegistry;
 use MediaWiki\Html\Html;
 use MediaWiki\Logger\LoggerFactory;
 use MediaWiki\Message\Message;
+use MediaWiki\Registration\ExtensionRegistry;
 use MediaWiki\SpecialPage\SpecialPage;
 use MWException;
 use Wikimedia\ObjectFactory\ObjectFactory;
