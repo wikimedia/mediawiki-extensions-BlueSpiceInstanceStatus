@@ -2,11 +2,12 @@
 
 namespace BlueSpice\InstanceStatus\InstanceStatusProvider;
 
+use BlueSpice\InstanceStatus\IApiStatusProvider;
 use BlueSpice\InstanceStatus\IStatusProvider;
 use MediaWiki\Message\Message;
 use MediaWiki\Parser\Sanitizer;
 
-class BlueSpiceVersion implements IStatusProvider {
+class BlueSpiceVersion implements IStatusProvider, IApiStatusProvider {
 
 	/**
 	 * @return string
@@ -40,5 +41,19 @@ class BlueSpiceVersion implements IStatusProvider {
 	 */
 	public function getPriority(): int {
 		return 30;
+	}
+
+	/**
+	 * @inheritDoc
+	 */
+	public function getKeyForApi(): string {
+		return 'bs-version';
+	}
+
+	/**
+	 * @inheritDoc
+	 */
+	public function getValueForApi() {
+		return $this->getValue();
 	}
 }
