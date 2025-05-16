@@ -48,4 +48,12 @@ class StatusCheckHandler extends SimpleHandler {
 	private function getClientIP() {
 		return RequestContext::getMain()->getRequest()->getIP();
 	}
+
+	/**
+	 * @inheritDoc
+	 * We perform access control via CIDR range
+	 */
+	public function needsReadAccess() {
+		return false;
+	}
 }
