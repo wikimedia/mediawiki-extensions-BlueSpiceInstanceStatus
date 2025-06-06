@@ -5,7 +5,7 @@
 	"author": [
 		"[http://www.hallowelt.com Hallo Welt! GmbH]"
 	],
-	"url": "http://www.bluespice.com",
+	"url": "https://en.wiki.bluespice.com/wiki/Reference:BlueSpiceInstanceStatus",
 	"descriptionmsg": "bs-instancestatus-desc",
 	"type": "bluespice",
 	"requires": {
