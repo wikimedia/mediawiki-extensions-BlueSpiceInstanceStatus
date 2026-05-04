@@ -13,5 +13,7 @@
 	"bs-instancestatus-instance-status-created-label": "인스턴스 생성일자",
 	"bs-instancestatus-instance-status-sales-contact-label": "BlueSpice 문의처",
 	"bs-instancestatus-instance-status-sales-contact": "여기로 연락하세요: [$1 BlueSpice 문의처]",
-	"bs-instancestatus-overview-loader": "위키 정보 수집 중 ..."
+	"bs-instancestatus-overview-loader": "위키 정보 수집 중 ...",
+	"bs-instancestatus-desc": "위키 인스턴스의 상태 개요를 추가합니다",
+	"bs-instancestatus-instance-status-user-quota-label": "사용자 할당량"
 }
