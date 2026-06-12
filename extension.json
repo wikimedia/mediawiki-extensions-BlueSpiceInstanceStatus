@@ -114,6 +114,9 @@
 		},
 		"InstanceStatusCheckAllowedIP": {
 			"value": null
+		},
+		"InstanceStatusCheckAllowedIPs": {
+			"value": []
 		}
 	},
 	"Hooks": {
