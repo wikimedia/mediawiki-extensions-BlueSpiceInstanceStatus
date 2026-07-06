@@ -51,10 +51,6 @@
 				"directories": {
 					"class": "\\BlueSpice\\InstanceStatus\\InstanceStatusProvider\\Directories",
 					"services": [ "MainConfig" ]
-				},
-				"mathoid": {
-					"class": "\\BlueSpice\\InstanceStatus\\InstanceStatusProvider\\Mathoid",
-					"services": [ "MainConfig", "HttpRequestFactory" ]
 				}
 			}
 		}
