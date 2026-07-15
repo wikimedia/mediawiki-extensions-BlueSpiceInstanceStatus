@@ -12,6 +12,7 @@
 		"bs": "readonly"
 	},
 	"rules": {
+		"mediawiki/no-unlabeled-buttonwidget": "off",
 		"no-jquery/no-global-selector": "off",
 		"no-prototype-builtins": "off"
 	}
