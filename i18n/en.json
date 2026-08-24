@@ -6,7 +6,7 @@
 		]
 	},
 	"bs-instancestatus-desc": "Adds an overview of the wiki instance status",
-	"instancestatus": "Instance status",
+	"instancestatus": "Wiki status",
 	"bs-instancestatus-instance-status-bs-version-label": "BlueSpice version",
 	"bs-instancestatus-instance-status-user-quota-label": "User quota",
 	"bs-instancestatus-instance-status-last-update-label": "Last update on",
