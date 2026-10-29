@@ -4,7 +4,7 @@ namespace BlueSpice\InstanceStatus\InstanceStatusProvider;
 
 use BlueSpice\InstanceStatus\IApiStatusProvider;
 use MediaWiki\Config\Config;
-use ObjectCacheFactory;
+use MediaWiki\ObjectCache\ObjectCacheFactory;
 use Wikimedia\ObjectCache\MemcachedBagOStuff;
 
 class Memcached implements IApiStatusProvider {
