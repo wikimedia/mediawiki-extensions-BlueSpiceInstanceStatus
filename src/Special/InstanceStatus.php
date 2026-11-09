@@ -16,8 +16,13 @@ class InstanceStatus extends SpecialPage {
 	 * @param StatusReport $report
 	 */
 	public function __construct( StatusReport $report ) {
-		parent::__construct( 'InstanceStatus', 'wikiadmin' );
+		parent::__construct( 'InstanceStatus' );
 		$this->report = $report;
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'wikiadmin';
 	}
 
 	/**
